@@ -10,6 +10,7 @@ Sobre arquivo "DesafioQaSeuBarriga.pdf":
 
 Sobre o Codigo de automação:
 
+* Descompactar arquivo "desafioQA" que contem o código fonte:
 * No Arquivo "SignupFactory.js" pode ser adicionado as entradas para executar os testes;
 * O caso de teste 'Attempt to delete account on transactions' deve adicionar o id correto da conta como informa no comentario;
 * Foi utilizado VS Code como editor de texto;
