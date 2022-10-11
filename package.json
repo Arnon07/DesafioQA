@@ -1,0 +1,15 @@
+{
+  "name": "desafioqa",
+  "version": "1.0.0",
+  "description": "desafio qa",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^9.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Arnon Nunes",
+  "license": "MIT"
+}
